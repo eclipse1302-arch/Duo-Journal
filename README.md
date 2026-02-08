@@ -1,0 +1,2 @@
+# Duo-Journal
+Duo-Journal is a minimalist, secure, and shared digital space designed for two people—whether they are partners, best friends, or family members. It bridges the distance through words, allowing two individuals to maintain their private journaling habits while having a dedicated window into each other's emotional worlds. Duo-Journal 是一款极简、安全的双人共享数字空间，专为伴侣、挚友或家人设计。它通过文字架起沟通的桥梁，让两个人在保持私人记录习惯的同时，拥有一扇通往对方情感世界的专属窗口。
